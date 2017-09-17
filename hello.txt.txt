@@ -1,19 +1,19 @@
-<!doctype html>
+п»ї<!doctype html>
   <html>
     <head>
       <meta charset="utf-8">
-      <title>Моя личная страничка</title>
+      <title>РњРѕСЏ Р»РёС‡РЅР°СЏ СЃС‚СЂР°РЅРёС‡РєР°</title>
     </head>
     <body> 
-      <left><h1>Майя Савкина</h1></left>
-      <left><img alt="Это я" width="15%" src="me.jpg"></left>
+      <left><h1>РњР°Р№СЏ РЎР°РІРєРёРЅР°</h1></left>
+      <left><img alt="Р­С‚Рѕ СЏ" width="15%" src="me.jpg"></left>
       <br/>
-      <h2>Контакты:</h2>
-      Страничка <a href=https://vk.com/listen1037/>vkontakte</a>
+      <h2>РљРѕРЅС‚Р°РєС‚С‹:</h2>
+      РЎС‚СЂР°РЅРёС‡РєР° <a href=https://vk.com/listen1037/>vkontakte</a>
       <br/>
       <a href=https://github.com/username>GitHub</a>
       <br/>
-      Телефон: <b>+79161630261</b>
+      РўРµР»РµС„РѕРЅ: <b>+79161630261</b>
       <br/>
       E-mail: <i>mpsavkina@edu.hse.ru</i>
     </body>
